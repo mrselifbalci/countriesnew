@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countriesnew/static/css/main.113856a5.chunk.css",
+    "main.js": "/countriesnew/static/js/main.af55f3cd.chunk.js",
+    "main.js.map": "/countriesnew/static/js/main.af55f3cd.chunk.js.map",
+    "runtime-main.js": "/countriesnew/static/js/runtime-main.32594890.js",
+    "runtime-main.js.map": "/countriesnew/static/js/runtime-main.32594890.js.map",
+    "static/js/2.5443a049.chunk.js": "/countriesnew/static/js/2.5443a049.chunk.js",
+    "static/js/2.5443a049.chunk.js.map": "/countriesnew/static/js/2.5443a049.chunk.js.map",
+    "static/js/3.ffce6db5.chunk.js": "/countriesnew/static/js/3.ffce6db5.chunk.js",
+    "static/js/3.ffce6db5.chunk.js.map": "/countriesnew/static/js/3.ffce6db5.chunk.js.map",
+    "index.html": "/countriesnew/index.html",
+    "static/css/main.113856a5.chunk.css.map": "/countriesnew/static/css/main.113856a5.chunk.css.map",
+    "static/js/2.5443a049.chunk.js.LICENSE.txt": "/countriesnew/static/js/2.5443a049.chunk.js.LICENSE.txt",
+    "static/media/bottom-earth.b54b1f65.png": "/countriesnew/static/media/bottom-earth.b54b1f65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32594890.js",
+    "static/js/2.5443a049.chunk.js",
+    "static/css/main.113856a5.chunk.css",
+    "static/js/main.af55f3cd.chunk.js"
+  ]
+}
